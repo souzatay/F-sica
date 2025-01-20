@@ -1,2 +1,2 @@
-# F-sica
+# Física
 Projetos desenvolvidos durante graduação em física
